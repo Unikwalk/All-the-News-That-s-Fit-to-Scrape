@@ -2,7 +2,7 @@
 
 NewsScrape is an app that utilizes scraping technology to pull articles from a news website and display them onto the app. For this case, the app will scrape through The New York Times (https://www.nytimes.com/). Once this is done, users are able to view, save, leave comments on the latest news, and delete them.
 
-See the app in action! ![NewsSrape](https://uniknews.herokuapp.com/)
+See the app in action! [NewsSrcape](https://uniknews.herokuapp.com/)
 
 ## Run
 
